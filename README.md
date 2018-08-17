@@ -7,9 +7,9 @@ _______________
 【试试引用一下谷歌的链接看看好不好使】（https://www.google.com/search?q=guge&oq=guge+&aqs=chrome..69i57j0l5.1278j0j7&sourceid=chrome&ie=UTF-8）
 
 #### 做个表格
-|姓名|年龄|学号|身份证|地址|
+| 姓名 | 年龄 | 学号 | 身份证 | 地址 |
 | - | - | - | - | - |
-|A|B|C|D|E||
+| A | B | C | D | E |
 
 
 ##### 再试试字体
